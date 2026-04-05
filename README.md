@@ -11,4 +11,3 @@ Bu repository, Excel ile yaptığım veri analizi ve raporlama projelerini içer
 - Koşullu Biçimlendirme ve Veri Doğrulama
 - Veri işleme teknikleri (Metni Sütunlara Dönüştür, KAYDIR, PARÇAAL)
 
-- 
